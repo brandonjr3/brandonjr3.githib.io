@@ -277,7 +277,7 @@
 	},
 	{
 		"abr": "reviveanypawn",
-		"price": 1200,
+		"price": 3000,
 		"karmatype": "Good"
 	},
 	{
@@ -321,16 +321,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "torytalkervote",
-		"price": 750,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "hodlbotvote",
-		"price": 600,
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "supernova",
 		"price": 1500,
 		"karmatype": "Good"
@@ -372,7 +362,7 @@
 	},
 	{
 		"abr": "reviveall",
-		"price": 22664,
+		"price": 23000,
 		"karmatype": "Good"
 	},
 	{
@@ -382,7 +372,7 @@
 	},
 	{
 		"abr": "healall",
-		"price": 17336,
+		"price": 17000,
 		"karmatype": "Good"
 	},
 	{
@@ -392,12 +382,12 @@
 	},
 	{
 		"abr": "healme",
-		"price": 2167,
+		"price": 2000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "surgery",
-		"price": 1,
+		"price": 500,
 		"karmatype": "Neutral"
 	},
 	{
@@ -422,7 +412,7 @@
 	},
 	{
 		"abr": "passion",
-		"price": 7000,
+		"price": 6000,
 		"karmatype": "Good"
 	},
 	{
@@ -436,5 +426,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 87
+	"total": 85
 }
