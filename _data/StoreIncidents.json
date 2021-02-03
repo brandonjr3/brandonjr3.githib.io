@@ -1,6 +1,71 @@
 {
 	"incitems" : [
 	{
+		"abr": "reviveall",
+		"price": 23000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "reviveme",
+		"price": 2833,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "healall",
+		"price": 17000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "healanypawn",
+		"price": 2000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "healme",
+		"price": 2000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "surgery",
+		"price": 500,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "passionshuffle",
+		"price": 2000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "replacetrait",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "rescueme",
+		"price": 800,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "fullheal",
+		"price": 2167,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "passion",
+		"price": 6000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "removepassion",
+		"price": 5000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "backpack",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
 		"abr": "tornado",
 		"price": 800,
 		"karmatype": "Bad"
@@ -297,12 +362,12 @@
 	},
 	{
 		"abr": "removetrait",
-		"price": 1,
+		"price": 5500,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "genderswap",
-		"price": 600,
+		"price": 10,
 		"karmatype": "Neutral"
 	},
 	{
@@ -319,71 +384,6 @@
 		"abr": "randominspire",
 		"price": 450,
 		"karmatype": "Good"
-	},
-	{
-		"abr": "reviveall",
-		"price": 23000,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "reviveme",
-		"price": 2833,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "healall",
-		"price": 17000,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "healanypawn",
-		"price": 2000,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "healme",
-		"price": 2000,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "surgery",
-		"price": 1,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "passionshuffle",
-		"price": 2000,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "replacetrait",
-		"price": 1,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "rescueme",
-		"price": 800,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "fullheal",
-		"price": 2167,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "passion",
-		"price": 6000,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "removepassion",
-		"price": 5000,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "backpack",
-		"price": 1,
-		"karmatype": "Neutral"
 	}
 	],
 	"total": 77
